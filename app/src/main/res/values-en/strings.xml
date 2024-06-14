@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Absen</string>
+    <string name="gambar">Image %1$s</string>
+    <string name="error">Failed to load data.. Connection error</string>
+    <string name="try_again">Try Again</string>
+    <string name="profil">Profile</string>
+    <string name="tutup">Close</string>
+    <string name="logout">Logout</string>
+    <string name="tambah_absen">Add Absence</string>
+    <string name="nama">Employee Name</string>
+    <string name="nama_latin">status</string>
+    <string name="batal">Cancel</string>
+    <string name="simpan">Save</string>
+    <string name="grid">Grid</string>
+    <string name="list">List</string>
+    <string name="bagikan_template">"         Employee Name  : %1$s       Status  : %2$s          Account : %3$s     "</string>
+    <string name="no_data">No One Has Been Absent Yet</string>
+</resources>
